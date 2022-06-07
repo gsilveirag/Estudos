@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Estudos\ASP.NET\Datas e Horas\Datas e Horas\bin\Debug\Datas e Horas.exe.config
+C:\Users\User\Desktop\Estudos\ASP.NET\Datas e Horas\Datas e Horas\bin\Debug\Datas e Horas.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Datas e Horas\Datas e Horas\bin\Debug\Datas e Horas.pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Datas e Horas\Datas e Horas\obj\Debug\Datas e Horas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Datas e Horas\Datas e Horas\obj\Debug\Datas e Horas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Datas e Horas\Datas e Horas\obj\Debug\Datas e Horas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Datas e Horas\Datas e Horas\obj\Debug\Datas e Horas.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Datas e Horas\Datas e Horas\obj\Debug\Datas e Horas.pdb

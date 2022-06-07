@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Estudos\ASP.NET\Aprendizado2\Aprendizado2\bin\Debug\Aprendizado2.exe.config
+C:\Users\User\Desktop\Estudos\ASP.NET\Aprendizado2\Aprendizado2\bin\Debug\Aprendizado2.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Aprendizado2\Aprendizado2\bin\Debug\Aprendizado2.pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Aprendizado2\Aprendizado2\obj\Debug\Aprendizado2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Aprendizado2\Aprendizado2\obj\Debug\Aprendizado2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Aprendizado2\Aprendizado2\obj\Debug\Aprendizado2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Aprendizado2\Aprendizado2\obj\Debug\Aprendizado2.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Aprendizado2\Aprendizado2\obj\Debug\Aprendizado2.pdb

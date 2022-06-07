@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Estudos\ASP.NET\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\User\Desktop\Estudos\ASP.NET\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Structs\Structs\obj\Debug\Structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Structs\Structs\obj\Debug\Structs.pdb

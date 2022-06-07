@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Estudos\ASP.NET\Swicht\Swicht\bin\Debug\Swicht.exe.config
+C:\Users\User\Desktop\Estudos\ASP.NET\Swicht\Swicht\bin\Debug\Swicht.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Swicht\Swicht\bin\Debug\Swicht.pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Swicht\Swicht\obj\Debug\Swicht.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Swicht\Swicht\obj\Debug\Swicht.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Swicht\Swicht\obj\Debug\Swicht.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Swicht\Swicht\obj\Debug\Swicht.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Swicht\Swicht\obj\Debug\Swicht.pdb
