@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Estudos\ASP.NET\Heranca\Heranca\bin\Debug\Heranca.exe.config
+C:\Users\User\Desktop\Estudos\ASP.NET\Heranca\Heranca\bin\Debug\Heranca.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Heranca\Heranca\bin\Debug\Heranca.pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Heranca\Heranca\obj\Debug\Heranca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Heranca\Heranca\obj\Debug\Heranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Heranca\Heranca\obj\Debug\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Heranca\Heranca\obj\Debug\Heranca.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Heranca\Heranca\obj\Debug\Heranca.pdb

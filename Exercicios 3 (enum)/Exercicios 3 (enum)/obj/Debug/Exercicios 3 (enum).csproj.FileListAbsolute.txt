@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Estudos\ASP.NET\Exercicios 3 (enum)\Exercicios 3 (enum)\obj\Debug\Exercicios 3 (enum).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Exercicios 3 (enum)\Exercicios 3 (enum)\obj\Debug\Exercicios 3 (enum).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Exercicios 3 (enum)\Exercicios 3 (enum)\obj\Debug\Exercicios 3 (enum).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Exercicios 3 (enum)\Exercicios 3 (enum)\bin\Debug\Exercicios 3 (enum).exe.config
+C:\Users\User\Desktop\Estudos\ASP.NET\Exercicios 3 (enum)\Exercicios 3 (enum)\bin\Debug\Exercicios 3 (enum).exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Exercicios 3 (enum)\Exercicios 3 (enum)\bin\Debug\Exercicios 3 (enum).pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Exercicios 3 (enum)\Exercicios 3 (enum)\obj\Debug\Exercicios 3 (enum).exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Exercicios 3 (enum)\Exercicios 3 (enum)\obj\Debug\Exercicios 3 (enum).pdb

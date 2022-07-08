@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Estudos\ASP.NET\Try - Catch\Try - Catch\bin\Debug\Try - Catch.exe.config
+C:\Users\User\Desktop\Estudos\ASP.NET\Try - Catch\Try - Catch\bin\Debug\Try - Catch.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Try - Catch\Try - Catch\bin\Debug\Try - Catch.pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Try - Catch\Try - Catch\obj\Debug\Try - Catch.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Try - Catch\Try - Catch\obj\Debug\Try - Catch.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Try - Catch\Try - Catch\obj\Debug\Try - Catch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Try - Catch\Try - Catch\obj\Debug\Try - Catch.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Try - Catch\Try - Catch\obj\Debug\Try - Catch.pdb
